@@ -8,5 +8,5 @@ war.py
 
 
 Blackjack.py
--this is a  program that creates a one blackjack round per compliation. While using 'OOP' I created objects and functions which helped in creating a simpler logic seen at the end of the program
+- this is a  program that creates a one blackjack round per compliation. While using 'OOP' I created objects and functions which helped in creating a simpler logic seen at the end of the program
 - to run us 'python blackjack.py'.
